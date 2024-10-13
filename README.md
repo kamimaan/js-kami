@@ -1,0 +1,2 @@
+# js-kami
+practice js
